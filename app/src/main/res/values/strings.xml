@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">NewsFeed_App</string>
+    <string name="empty_news">No news found, Try again later. </string>
+    <string name="connection_network_text">No network connect </string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="title_limit_of_report">Max number of report show</string>
+    <string name="key_of_limit_of_report">number_of_report</string>
+    <string name="default_number_of_report">10</string>
+
+    <string name="title_section_of_report">Kind of Section</string>
+    <string name="key_of_list_section_of_report">id_list_section</string>
+    <string name="default_section_selected">games</string>
+
+    <string name="title_word_search_in_report">search</string>
+    <string name="key_of_word_search_of_report">word_query_in_report</string>
+
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_magnitude_value</string>
+    <string name="settings_order_by_magnitude_value" translatable="false">magnitude</string>
+</resources>

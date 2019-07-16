@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_section_of_report">
+    <item>random</item>
+    <item>sport</item>
+    <item>music</item>
+    <item>help</item>
+    <item>money</item>
+    <item>games</item>
+    <item>technology</item>
+    </string-array>
+
+</resources>
